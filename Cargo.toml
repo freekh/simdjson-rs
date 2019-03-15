@@ -1,0 +1,7 @@
+[package]
+name = "simdjson-rs"
+version = "0.1.0"
+authors = ["Fredrik Ekholdt <freekh@gmail.com>"]
+edition = "2018"
+
+[dependencies]
